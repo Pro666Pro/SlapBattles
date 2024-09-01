@@ -22,5 +22,7 @@ if game.PlaceId == 6403373529 or game.PlaceId == 11520107397 or game.PlaceId == 
      if game.PlaceId == 11520107397 or game.PlaceId == 9015014224 then
      loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/NexerHUB/main/main.lua'))()
      elseif game.PlaceId == 6403373529 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/NexerHUB/main/main.lua'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/NexerHUB/main/main.lua'))()
+     elseif game.PlaceId == 18550498098 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/WhereGuideResides/main/main.lua'))()
 end
