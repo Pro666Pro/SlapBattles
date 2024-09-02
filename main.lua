@@ -36,5 +36,7 @@ if game.PlaceId == 6403373529 or game.PlaceId == 11520107397 or game.PlaceId == 
      elseif game.PlaceId == 13833961666 then
      loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/TheDarkRealm/main/main.lua'))()
      elseif game.PlaceId == 18698003301 then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/SlapLeague/main/main.lua'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/SlapLeague/main/main.lua'))()
+     elseif game.PlaceId == 7234087065 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/barzil/main/main.lua'))()
 end
